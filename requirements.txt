@@ -1,0 +1,7 @@
+docarray[hnswlib]
+torch 
+torchvision 
+aiohttp 
+aiofiles 
+IPython
+git+https://github.com/facebookresearch/ImageBind.git
