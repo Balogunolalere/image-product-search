@@ -26,7 +26,7 @@ Image Product Search is a powerful tool that enables searching for products usin
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/image-product-search.git
+   git clone https://github.com/Balogunolalere/image-product-search.git
    cd image-product-search
    ```
 
